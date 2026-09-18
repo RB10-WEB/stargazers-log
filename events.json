@@ -1,0 +1,30 @@
+[
+  {
+    "full_name": "octocat/Hello-World",
+    "description": "My first repository on GitHub.",
+    "language": "HTML",
+    "stargazers_count": 1280,
+    "html_url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "full_name": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stargazers_count": 245000,
+    "html_url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free.",
+    "language": "JavaScript",
+    "stargazers_count": 410000,
+    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  },
+  {
+    "full_name": "vercel/next.js",
+    "description": "The React Framework for the Web.",
+    "language": "JavaScript",
+    "stargazers_count": 136000,
+    "html_url": "https://github.com/vercel/next.js"
+  }
+]
